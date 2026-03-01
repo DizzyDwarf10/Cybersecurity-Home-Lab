@@ -7,4 +7,4 @@ This repository is to show my cybersecurity labs, which includes projects and wr
 ## Table of Contents
 
 ### 1 Cybersecurity Tools
-- [Linux Security Basics Lab](1%20Cybersecurity%20Tools/Linux%20Security%20Basics%20Lab.md)
+- [Linux Security Basics Lab](1%20Cybersecurity%20Tools/Linux%20Security%20Basics%20Lab.pdf)
