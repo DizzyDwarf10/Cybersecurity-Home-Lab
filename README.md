@@ -8,3 +8,6 @@ This repository is to show my cybersecurity labs, which includes projects and wr
 
 ### 1 Cybersecurity Tools
 - [Linux Security Basics Lab](1%20Cybersecurity%20Tools/Linux%20Security%20Basics%20Lab.pdf)
+
+### 2 Environment Variable and Set-UID
+- [Trying Attacks](2%20Enviroment%20Variable%20and%20Set-UID/Trying%20Attacks.pdf)
